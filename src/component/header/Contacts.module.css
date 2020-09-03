@@ -2,6 +2,13 @@
     width: 30%;
     float: left;
     margin-left: 10%;
+    position: relative;
+}
+
+.block {
+    position:absolute;
+    top:50%;
+    margin-top: 0.5em;
 }
 
 .contacts li {
