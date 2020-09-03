@@ -1,0 +1,8 @@
+.links a {
+    color: blue;
+}
+
+.links li {
+    display: flex;
+    margin-right: 10px;
+}

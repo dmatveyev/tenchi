@@ -1,0 +1,16 @@
+.header {
+    grid-area: h;
+    background-color: burlywood;
+}
+
+.logo {
+    outline: 0;
+    border: 0;
+    width: 60px;
+
+}
+
+.vkBlock {
+    float: right;
+}
+

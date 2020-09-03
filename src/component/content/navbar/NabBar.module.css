@@ -1,0 +1,24 @@
+.navbar {
+    float: right;
+    padding: .5rem 1rem;
+    border: 3px solid #487ae7;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.item {
+    display: inline;
+}
+
+.item a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.item a.activeLink {
+    color: blue;
+}
