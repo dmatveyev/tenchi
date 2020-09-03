@@ -1,8 +1,12 @@
+.links {
+    float: right;
+    width: 10%;
+    margin: auto;
+}
 .links a {
     color: blue;
 }
 
 .links li {
     display: flex;
-    margin-right: 10px;
 }

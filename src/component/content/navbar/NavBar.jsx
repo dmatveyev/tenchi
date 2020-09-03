@@ -12,10 +12,10 @@ const NavBar = () => {
                         <NavLink exact to="/" activeClassName={styles.activeLink}>Главная</NavLink>
                     </div>
                     <div className={styles.item}>
-                        <NavLink exact to="/contacts" activeClassName={styles.activeLink}>Контакты</NavLink>
+                        <NavLink exact to="/news" activeClassName={styles.activeLink}>Новости</NavLink>
                     </div>
                     <div className={styles.item}>
-                        <NavLink exact to="/news" activeClassName={styles.activeLink}>Новости</NavLink>
+                        <NavLink exact to="/schedule" activeClassName={styles.activeLink}>Расписание</NavLink>
                     </div>
                 </nav>
             </div>

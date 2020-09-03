@@ -1,7 +1,7 @@
 .rootdiv {
     grid-area: n;
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 .navbar {
@@ -21,7 +21,7 @@
     text-decoration: none;
     display: inline-block;
     padding: 10px 20px;
-    background-color: #ffffff;
+    background-color: lightskyblue;
     border-radius: 5px;
 }
 

@@ -1,0 +1,9 @@
+.contacts {
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+}
+
+.contacts li {
+    display: flex;
+}

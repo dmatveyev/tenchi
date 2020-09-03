@@ -1,12 +1,14 @@
 import * as React from "react";
+import styles from "../common/ContentBgr/ContentBgr.module.css";
 
 class News extends React.Component{
 
     render() {
         return(
-            <div>
-                News
-            </div>
+                <div className={styles.contentbgr}>
+                    News
+                </div>
+
         )
     }
 }

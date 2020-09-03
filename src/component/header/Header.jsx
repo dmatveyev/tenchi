@@ -1,6 +1,7 @@
 import * as React from "react";
 import styles from './Header.module.css';
 import Links from "./Links";
+import Contacts from "./Contacts";
 
 
 class Header extends React.Component {
@@ -10,10 +11,9 @@ class Header extends React.Component {
 
         return (
             <header className={styles.header}>
-                <img className={styles.logo} src={"22.png"} alt=""/>
-                <div className={styles.vkBlock}>
-                    <Links/>
-                </div>
+                <img className={styles.logo} src={"21.png"} alt=""/>
+                <Contacts/>
+                <Links/>
             </header>)
     }
 }
