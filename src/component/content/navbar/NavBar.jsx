@@ -6,7 +6,7 @@ import {NavLink} from "react-router-dom";
 const NavBar = () => {
 
         return (
-            <div>
+            <div className={styles.rootdiv}>
                 <nav className={styles.navbar}>
                     <div className={styles.item}>
                         <NavLink exact to="/" activeClassName={styles.activeLink}>Главная</NavLink>
