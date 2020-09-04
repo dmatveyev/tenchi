@@ -9,13 +9,13 @@ const NavBar = () => {
             <div className={styles.rootdiv}>
                 <nav className={styles.navbar}>
                     <div className={styles.item}>
-                        <NavLink exact to="tenchi/" activeClassName={styles.activeLink}>Главная</NavLink>
+                        <NavLink exact to="/" activeClassName={styles.activeLink}>Главная</NavLink>
                     </div>
                     <div className={styles.item}>
-                        <NavLink exact to="tenchi/news" activeClassName={styles.activeLink}>Новости</NavLink>
+                        <NavLink exact to="/news" activeClassName={styles.activeLink}>Новости</NavLink>
                     </div>
                     <div className={styles.item}>
-                        <NavLink exact to="tenchi/schedule" activeClassName={styles.activeLink}>Расписание</NavLink>
+                        <NavLink exact to="/schedule" activeClassName={styles.activeLink}>Расписание</NavLink>
                     </div>
                 </nav>
             </div>

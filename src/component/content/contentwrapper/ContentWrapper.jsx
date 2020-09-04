@@ -12,9 +12,9 @@ const ContentWrapper = () => {
                 <div className={styles.content}>
 
                         <div>
-                            <Route exact path="tenchi/" render={() => <Main/>}/>
-                            <Route exact path="tenchi/news" render={() => <News/>}/>
-                            <Route exact path="tenchi/schedule" render={() => <Schedule/>}/>
+                            <Route exact path="/" render={() => <Main/>}/>
+                            <Route exact path="/news" render={() => <News/>}/>
+                            <Route exact path="/schedule" render={() => <Schedule/>}/>
                         </div>
                 </div>
         )
