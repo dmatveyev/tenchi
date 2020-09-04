@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tenchi/static/css/main.782e66c5.chunk.css",
+    "main.js": "/tenchi/static/js/main.4f09d42e.chunk.js",
+    "main.js.map": "/tenchi/static/js/main.4f09d42e.chunk.js.map",
+    "runtime-main.js": "/tenchi/static/js/runtime-main.ac52a934.js",
+    "runtime-main.js.map": "/tenchi/static/js/runtime-main.ac52a934.js.map",
+    "static/js/2.63993f27.chunk.js": "/tenchi/static/js/2.63993f27.chunk.js",
+    "static/js/2.63993f27.chunk.js.map": "/tenchi/static/js/2.63993f27.chunk.js.map",
+    "index.html": "/tenchi/index.html",
+    "precache-manifest.3703001f8dfa2f5dfd50293b50cfbe9a.js": "/tenchi/precache-manifest.3703001f8dfa2f5dfd50293b50cfbe9a.js",
+    "service-worker.js": "/tenchi/service-worker.js",
+    "static/css/main.782e66c5.chunk.css.map": "/tenchi/static/css/main.782e66c5.chunk.css.map",
+    "static/js/2.63993f27.chunk.js.LICENSE.txt": "/tenchi/static/js/2.63993f27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tenchi/static/media/shomen.4e858f4e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac52a934.js",
+    "static/js/2.63993f27.chunk.js",
+    "static/css/main.782e66c5.chunk.css",
+    "static/js/main.4f09d42e.chunk.js"
+  ]
+}
